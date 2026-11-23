@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:23/11/2026
+## Reference Number:26018108
+## Name:Karuppayee Gayathri R
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,32 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+
+1. Overview of the suggested solution
+2. Key features and functionalities
+3. How the proposed solution solves the identified problem
+4. Special features that make the solution different
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.Tools, technologies, and platforms required
+2.System design and development process
+3.Step-by-step implementation procedure
+4.Flowcharts, diagrams, and prototype demonstration
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1.Technical and practical possibility of the project
+2.Resources and requirements needed
+3.Possible limitations during development
+4.Methods to handle challenges effectively
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1.Expected outcomes of the proposed project
+2.Advantages for users and society
+3.Long-term benefits and practical applications
+4.Contribution towards solving real-world problems
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1.Supporting research and related studies
+2.Information collected from reliable sources
+3.Reference websites, articles, and research papers
+4.Relevant links and documentation
